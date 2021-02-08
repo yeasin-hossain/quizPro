@@ -16,7 +16,6 @@ let questions = [];
 fetch('./question.json')
 	.then((res) => res.json())
 	.then((data) => {
-		console.log(data);
 		questions = data;
 		startGame();
 		// questions.push(data);

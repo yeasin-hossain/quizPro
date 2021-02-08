@@ -25,21 +25,64 @@
 },
 
 {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
+    "question": " Which of the following is an advantage of using JavaScript?",
+    "choice1": "Less server interaction",
+    "choice2": "Immediate feedback to the visitors",
+    "choice3": "Increased interactivity",
+    "choice4": "All of the above.",
     "answer": 4
 }
 ,
 {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
+    "question": "Which of the following is the correct syntax to print a page using JavaScript?",
+    "choice1": "window.print();",
+    "choice2": " browser.print();",
+    "choice3": "navigator.print();",
+    "choice4": " document.print();",
+    "answer": 1
+}
+,
+{
+    "question": " Which built-in method calls a function for each element in the array?",
+    "choice1": "while()",
+    "choice2": "loop()",
+    "choice3": "forEach()",
+    "choice4": "None of the above.",
+    "answer": 3
+},
+{
+    "question": "Which of the following code creates an object?",
+    "choice1": "var book = Object();",
+    "choice2": "var book = new Object();",
+    "choice3": "var book = new OBJECT();",
+    "choice4": " var book = new Book();",
+    "answer": 2
+}
+,
+{
+    "question": "Which of the following function of String object returns the characters in a string between two indexes into the string?",
+    "choice1": "slice()",
+    "choice2": "split()",
+    "choice3": "substr()",
+    "choice4": " substring()",
     "answer": 4
 }
-
+,
+{
+    "question": " Which of the following function of String object returns the primitive value of the specified object.",
+    "choice1": "toLocaleUpperCase()",
+    "choice2": " toUpperCase()",
+    "choice3": " toString()",
+    "choice4": "  valueOf()",
+    "answer": 4
+}
+,
+{
+    "question": " Which of the following function of Array object adds one or more elements to the end of an array and returns the new length of the array?",
+    "choice1": " pop()",
+    "choice2": "  push()",
+    "choice3": "  join()",
+    "choice4": "  map()",
+    "answer": 2
+}
 ]
